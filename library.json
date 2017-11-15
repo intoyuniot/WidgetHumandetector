@@ -1,0 +1,17 @@
+{
+    "name": "WidgetHumandetector",
+    "version": "1.0.0",
+    "keywords": "Widget,Humandetector",
+    "description": "人体红外感应应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetHumandetector.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
